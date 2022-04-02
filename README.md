@@ -1,6 +1,6 @@
 # redditech
 
-A new Flutter project.
+Epitech Flutter project made by Hugo Humez and me.
 
 ## Getting Started
 
